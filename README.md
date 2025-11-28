@@ -1,4 +1,4 @@
 # Chatbot
 I am going to create AI Chatbot
 <br>
-Author: Maria Kausar
+Author: Maria K.
